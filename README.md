@@ -22,4 +22,4 @@ I selected DART because it is the language I am most confident in as well as it 
 
 **Did you do anything to make the solution run faster?**
 
-Yes, we implemented in memory caching which avoids data files being read multiple times, additionally I implemented O(1) lookups this makes it easier to find users instead of using linear search I used a hash lookup. 
+Yes, I implemented in memory caching where we only ever load the data once, this avoids expensive data retrival calls, additionally I implemented O(1) lookups this makes it easier to find users instead of using linear search I used a hash lookup. 
