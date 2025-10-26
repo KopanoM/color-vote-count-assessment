@@ -10,7 +10,7 @@ Answers to questions
 
 **What advantages does this language offer for solving this problem?**
 
-DART is relatively simple language to learn it has advantages such as **built-in asynchronous programming** that make it easier to handle futures and async work without requiring third party libraries. DART also offers **AOT (Ahead of Time) compilation** which compiles native code before running it this basically means faster bootstime and execution time when running code. Additionally DARTs **type safety** allows for easier fault finding by throwing errors at compile time opposed to runtime. 
+DART is relatively simple language to learn it has advantages such as built-in asynchronous programming that make it easier to handle futures and async work without requiring third party libraries. DART also offers AOT (Ahead of Time) compilation which compiles native code before running it this basically means faster bootstime and execution time when running code. Additionally DARTs type safety allows for easier fault finding by throwing errors at compile time opposed to runtime. 
 
 **In what ways does the language make it more difficult to solve this problem?**
 
